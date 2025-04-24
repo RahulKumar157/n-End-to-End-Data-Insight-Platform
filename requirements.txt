@@ -22,8 +22,6 @@ openai
 langchain-groq
 plotly==5.10.0  
 plotly
-
-
-numpy
+numpy==1.23.5
 scikit-learn
 matplotlib
