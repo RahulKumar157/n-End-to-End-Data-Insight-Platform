@@ -21,6 +21,7 @@ pandas
 openai
 langchain-groq
 plotly==5.10.0  
+plotly
 
 
 
